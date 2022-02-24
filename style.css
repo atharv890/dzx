@@ -1,0 +1,10 @@
+.heading{
+    background-color:coral;
+    width:100%;
+    font-size: 15px;
+    box-shadow:5px 5px 5px grey;
+}
+body{
+background-image: radial-gradient(lightyellow rgb(241, 167, 167) lightblue );
+font-family: 'Roboto Condensed', sans-serif;
+}
